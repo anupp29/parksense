@@ -1,0 +1,397 @@
+impact_rank,area_name,police_station,congestion_pcu_hrs_day,econ_loss_week_inr,tier,officers,shift,barricade,priority,weekly_saving_inr
+1,"5th Main Road,  Kempe Gowda Circle",Upparpet,141.8,84371.0,Critical,30,07:00 - 12:00,YES,DEPLOY NOW,84371
+2,"Kamaraj Road,  Sri Nagamma Devi Circle",Shivajinagar,86.13,51247.0,Critical,21,08:00 - 13:00,YES,DEPLOY NOW,51247
+3,"Mysore Road,  Sri Krishna Rajendra Market",City Market,69.5,41352.0,Critical,15,07:00 - 12:00,YES,DEPLOY NOW,41352
+4,"10th Cross Road,  Block 1",Rajajinagar,29.02,17267.0,Critical,6,01:00 - 06:00,YES,SCHEDULE TODAY,17267
+5,"80 Feet Ring Road,  Orion",Malleshwaram,23.48,13971.0,Critical,6,08:00 - 13:00,YES,DEPLOY NOW,13971
+6,"Unnamed Road,  Begur Chikkanahalli",Chikkajala,21.78,12959.0,Critical,4,02:00 - 07:00,YES,SCHEDULE TODAY,12959
+7,"Pailwan M Krishnappa Road,  Shoukath Mohalla",Halasuru Gate,21.02,12507.0,Critical,6,08:00 - 13:00,YES,SCHEDULE TODAY,12507
+8,"New Horizon College Road,  New Horizon College of Engineering",HAL Old Airport,19.73,11739.0,Critical,6,02:00 - 07:00,NO,DEPLOY NOW,11739
+9,"Kadubeesanahalli Underpass,  Kadubisanahalli Junction",HAL Old Airport,18.76,11162.0,Critical,4,06:00 - 11:00,NO,SCHEDULE TODAY,11162
+10,"Sri Venkataranga Ayangar Road,  Ranganathapura",Malleshwaram,15.97,9502.0,High,5,08:00 - 13:00,NO,DEPLOY NOW,9502
+11,"ITPL Main Road,  Brigade Tech Gardens",HAL Old Airport,12.19,7253.0,High,2,03:00 - 08:00,NO,ROUTINE PATROL,7253
+12,"Outer Ring Road,  Citilights Liberty Apartment",Bellandur,11.64,6926.0,High,2,00:00 - 05:00,NO,ROUTINE PATROL,6926
+13,"AS Char Main Road,  Santhusapete",Chamarajpet,11.36,6759.0,Critical,3,05:00 - 10:00,NO,ROUTINE PATROL,6759
+14,"Sri Sankasta Hara Ganapati Temple Road,  RPC Layout",Vijayanagara,11.32,6735.0,Critical,6,08:00 - 13:00,NO,SCHEDULE TODAY,6735
+15,"MBT Road,  Devasandra Junction",K.R. Pura,11.0,6545.0,Critical,4,00:00 - 03:00,NO,SCHEDULE TODAY,6545
+16,"Mahatma Gandhi Road,  Mittal Towers",Halasur,10.8,6426.0,High,2,02:00 - 07:00,NO,SCHEDULE TODAY,6426
+17,"19th Main Road,  Block 1",Malleshwaram,10.44,6212.0,Critical,3,06:00 - 11:00,NO,SCHEDULE TODAY,6212
+18,"Mysore Road,  Satellite Bus Stand Junction",Byatarayanapura,8.75,5206.0,Critical,3,00:00 - 04:00,NO,ROUTINE PATROL,5206
+19,"Padmabhushan Dr MC Modi Road,  Phase 1",Vijayanagara,7.74,4605.0,Critical,3,08:00 - 13:00,NO,ROUTINE PATROL,4605
+20,"Chord Road,  Manuvana",Vijayanagara,7.38,4391.0,Critical,6,02:00 - 07:00,NO,SCHEDULE TODAY,4391
+21,"Old Airport Road,  Manipal Hospital Junction",Jeevanbheemanagar,7.33,4361.0,High,2,03:00 - 08:00,NO,ROUTINE PATROL,4361
+22,"Rao Bahadur DGT Road,  Majestic Circle",Chamarajpet,7.0,4165.0,Critical,3,05:00 - 10:00,NO,ROUTINE PATROL,4165
+23,"5th Main Road,  Shri Vinayaka Circle",Jayanagara,6.66,3963.0,Critical,3,06:00 - 11:00,NO,ROUTINE PATROL,3963
+24,"1st Cross Road,  Mallige Thotta",Magadi Road,6.44,3832.0,Critical,3,09:00 - 14:00,NO,SCHEDULE TODAY,3832
+25,"Old Madras Road,  Royal Heritage",Mahadevapura,6.42,3820.0,Critical,2,08:00 - 13:00,NO,ROUTINE PATROL,3820
+26,"Sri DV Gundappa Road,  Shopper Junction",Basavanagudi,5.69,3386.0,Critical,3,08:00 - 13:00,NO,ROUTINE PATROL,3386
+27,"Marathahalli Underpass,  Ashwath Nagar",HAL Old Airport,5.64,3356.0,High,2,09:00 - 14:00,NO,ROUTINE PATROL,3356
+28,"Sahakar Nagar Road,  Fortuna Acacia",Kodigehalli,5.49,3267.0,High,3,09:00 - 14:00,NO,SCHEDULE TODAY,3267
+29,"Kumar Krupa Road,  Padmashree RMP Aaradhya Circle",High ground,5.45,3243.0,High,3,05:00 - 10:00,NO,MONITOR ONLY,3243
+30,"Domlur Inner Ring Road,  HAL Stage 2",Jeevanbheemanagar,4.93,2933.0,High,2,05:00 - 10:00,NO,ROUTINE PATROL,2933
+31,"MBT Road,  Royal Heritage",Banaswadi,4.88,2904.0,Critical,2,07:00 - 12:00,NO,MONITOR ONLY,2904
+32,"20th Main Road,  Block 7",Adugodi,4.39,2612.0,High,3,09:00 - 14:00,NO,ROUTINE PATROL,2612
+33,"Walton Road,  Walton Road Circle",Cubbon Park,4.14,2463.0,High,3,09:00 - 14:00,NO,MONITOR ONLY,2463
+34,"Bengaluru Bellary Road,  Sadahalli Gate Junction",Chikkajala,4.08,2428.0,High,2,00:00 - 04:00,NO,MONITOR ONLY,2428
+35,"Coles Road,  Silver Enclave",Pulikeshinagar(F.Town),4.06,2416.0,High,2,01:00 - 06:00,NO,ROUTINE PATROL,2416
+36,"Palace Road,  Kalpana Circle",High ground,3.98,2368.0,Critical,3,01:00 - 06:00,NO,SCHEDULE TODAY,2368
+37,"Bellary Road,  Vinayaka Nagar",Hebbala,3.97,2362.0,High,2,02:00 - 07:00,NO,ROUTINE PATROL,2362
+38,"Whitefield Road,  Phoenix Marketcity",Mahadevapura,3.85,2291.0,High,2,09:00 - 14:00,NO,ROUTINE PATROL,2291
+39,"Neeladri Road,  Ajmera Annex",Electronic City,3.83,2279.0,High,2,10:00 - 15:00,NO,ROUTINE PATROL,2279
+40,"Outer Ring Road,  Venkatappa Colony",Mahadevapura,3.81,2267.0,High,2,00:00 - 04:00,NO,MONITOR ONLY,2267
+41,"5th Cross Road,  Rajath Greens",K.G. Halli,3.76,2237.0,Moderate,1,01:00 - 06:00,NO,MONITOR ONLY,2237
+42,"G Narayana Kumar Road,  Block C",Magadi Road,3.47,2065.0,High,2,02:00 - 07:00,NO,ROUTINE PATROL,2065
+43,"Mumbai Bengaluru Highway,  Gorguntepalya Junction",Yeshwanthpura,3.45,2053.0,High,2,08:00 - 13:00,NO,ROUTINE PATROL,2053
+44,"Mysore Road,  City Market Circle",V.V.Puram (C.Pet),3.4,2023.0,High,3,00:00 - 03:00,NO,MONITOR ONLY,2023
+45,"Domlur Inner Ring Road,  Block 2",Madiwala,3.35,1993.0,High,2,00:00 - 04:00,NO,MONITOR ONLY,1993
+46,"Padmabhushan Dr RK Srikantan Road,  Seshadripuram Police Station Junction",Sheshadripuram,3.3,1963.0,Moderate,1,09:00 - 14:00,NO,ROUTINE PATROL,1963
+47,"Pramukh Swami Maharaj Road,  GEF Block",Magadi Road,3.26,1940.0,High,3,02:00 - 07:00,NO,MONITOR ONLY,1940
+48,"1st Main Road,  Ramaiah Reddy Layout",Hulimavu,3.25,1934.0,Moderate,1,00:00 - 05:00,NO,MONITOR ONLY,1934
+49,"Outer Ring Road,  Doddanekundi",Mahadevapura,3.09,1839.0,High,2,01:00 - 06:00,NO,MONITOR ONLY,1839
+50,"Cunningham Road,  Mantri Altiue Apartment",Shivajinagar,3.02,1797.0,Critical,3,02:00 - 07:00,NO,ROUTINE PATROL,1797
+51,"Hosapalya Main Road,  BKL Colony",HSR Layout,2.97,1767.0,Moderate,1,11:00 - 16:00,NO,MONITOR ONLY,1767
+52,"MBT Road,  SM Layout",K.R. Pura,2.97,1767.0,High,2,08:00 - 13:00,NO,ROUTINE PATROL,1767
+53,"80 Feet Ring Road,  SSI Industrial Area",Magadi Road,2.97,1767.0,High,3,10:00 - 15:00,NO,MONITOR ONLY,1767
+54,"Dr Rajkumar Puniya Bhoomi Road,  Block 2",Rajajinagar,2.95,1755.0,High,2,09:00 - 14:00,NO,MONITOR ONLY,1755
+55,"1st Cross Road,  Vinoba Nagar",Halasuru Gate,2.88,1714.0,High,3,03:00 - 08:00,NO,MONITOR ONLY,1714
+56,"MBT Road,  Kotturu",Banaswadi,2.83,1684.0,High,2,00:00 - 04:00,NO,MONITOR ONLY,1684
+57,"Laggere Service Road,  Narasimhaswamy Layout",Rajajinagar,2.78,1654.0,High,2,09:00 - 14:00,NO,MONITOR ONLY,1654
+58,"45th Cross Road,  Banashankari Bus Stand Junction",Jayanagara,2.72,1618.0,High,3,01:00 - 06:00,NO,MONITOR ONLY,1618
+59,"Model Road,  Ryders Junction",City Market,2.63,1565.0,High,3,06:00 - 11:00,NO,MONITOR ONLY,1565
+60,"Jakkur Main Road,  Raitarasanthe",Yelahanka,2.47,1470.0,Moderate,1,00:00 - 05:00,NO,MONITOR ONLY,1470
+61,"Lalbagh Main Road,  SGN Layout",Wilson Garden,2.45,1458.0,High,3,08:00 - 13:00,NO,MONITOR ONLY,1458
+62,"ITPL Main Road,  SJR Brooklyn Apartment",HAL Old Airport,2.26,1345.0,Moderate,1,01:00 - 06:00,NO,MONITOR ONLY,1345
+63,"Sri B Gangaiah Road,  Shivanahalli Junction",Vijayanagara,2.14,1273.0,High,3,08:00 - 13:00,NO,MONITOR ONLY,1273
+64,"Dr Ambedkar Road,  Shanthaveri Gopalagowda Circle",Cubbon Park,2.12,1261.0,High,3,00:00 - 05:00,NO,MONITOR ONLY,1261
+65,"7th Cross Road,  Chikka Biddappa Layout",Hulimavu,2.1,1250.0,Moderate,1,00:00 - 05:00,NO,MONITOR ONLY,1250
+66,"Brigade Road,  St Patricks Complex",Ashok Nagar,2.07,1232.0,Moderate,1,08:00 - 13:00,NO,ROUTINE PATROL,1232
+67,"Queens Road,  Rajiv Gandhi Colony",Shivajinagar,2.0,1190.0,Moderate,1,02:00 - 07:00,NO,MONITOR ONLY,1190
+68,"Bhadrappa Flyover,  Nagashetty Halli",Kodigehalli,1.98,1178.0,Moderate,1,01:00 - 06:00,NO,MONITOR ONLY,1178
+69,"20th Main Road,  Block G",Kodigehalli,1.95,1160.0,Moderate,1,11:00 - 16:00,NO,MONITOR ONLY,1160
+70,"Doddakannelli Road,  Mayfair Anthem",Bellandur,1.81,1077.0,High,2,02:00 - 07:00,NO,MONITOR ONLY,1077
+71,"17th Cross Road,  Sector 7",HSR Layout,1.8,1071.0,Moderate,1,10:00 - 15:00,NO,ROUTINE PATROL,1071
+72,"Dr Siddaiah Puranik Marg,  Havanur Circle",Vijayanagara,1.76,1047.0,High,3,08:00 - 13:00,NO,MONITOR ONLY,1047
+73,"BTS Main Road,  BMTC Junction",Wilson Garden,1.71,1017.0,High,3,07:00 - 12:00,NO,MONITOR ONLY,1017
+74,"Thavarekere Main Road,  Prestige Lexington Towers",Mico Layout,1.69,1006.0,Critical,3,00:00 - 05:00,NO,MONITOR ONLY,1006
+75,"Pusa Thippasandra Main Road,  Nada Prabhu Kempegowda Circle",Jeevanbheemanagar,1.63,970.0,Moderate,1,05:00 - 10:00,NO,ROUTINE PATROL,970
+76,"JJR Main Road,  JJR Nagar Circle",Magadi Road,1.61,958.0,Moderate,1,00:00 - 05:00,NO,MONITOR ONLY,958
+77,"Hosur Road,  Singasandra Industrial Estate",Hulimavu,1.59,946.0,Moderate,1,01:00 - 06:00,NO,MONITOR ONLY,946
+78,"O Shaughnessy Road,  Divyasree Chambers",Ashok Nagar,1.58,940.0,High,3,02:00 - 07:00,NO,ROUTINE PATROL,940
+79,"80 Feet Road,  Block 2",Sadashivanagar,1.55,922.0,Moderate,1,09:00 - 14:00,NO,MONITOR ONLY,922
+80,"2nd Main Road,  Prestige Technostar",Mahadevapura,1.54,916.0,Moderate,1,01:00 - 06:00,NO,MONITOR ONLY,916
+81,"Unnamed Road,  Begur Chikkanahalli",Devanahalli Airport,1.53,910.0,Moderate,1,02:00 - 07:00,NO,MONITOR ONLY,910
+82,"Old Airport Road,  Attimaramma Circle",Halasur,1.53,910.0,High,3,02:00 - 07:00,NO,MONITOR ONLY,910
+83,"Hosur Road,  Krimson Square",HSR Layout,1.49,887.0,Moderate,1,09:00 - 14:00,NO,MONITOR ONLY,887
+84,"Vibgyor High School Road,  Samhita Rainbow MTB Apartment",Whitefield,1.37,815.0,Critical,2,06:00 - 11:00,NO,MONITOR ONLY,815
+85,"Lalbagh Main Road,  Dr Sri Shantaveera Swami Circle",City Market,1.33,791.0,High,3,01:00 - 06:00,NO,MONITOR ONLY,791
+86,"1st Main Road,  Block 1R",Rajajinagar,1.33,791.0,High,3,08:00 - 13:00,NO,MONITOR ONLY,791
+87,"Jalahalli Cross Road,  Jalahalli Cross Junction",Peenya,1.32,785.0,Moderate,1,09:00 - 14:00,NO,MONITOR ONLY,785
+88,"Avenue Road,  Mysore Bank Circle",Halasuru Gate,1.3,774.0,High,3,02:00 - 07:00,NO,MONITOR ONLY,774
+89,"Hosur Road,  Global Tech Park",Mico Layout,1.26,750.0,Critical,3,00:00 - 05:00,NO,MONITOR ONLY,750
+90,"Dr Rajkumar Punya Bhoomi Road,  Radiant Karel",Byatarayanapura,1.24,738.0,High,3,01:00 - 06:00,NO,MONITOR ONLY,738
+91,"Old Madras Road,  Gopalan Signature Mall",Banaswadi,1.22,726.0,Moderate,1,12:00 - 17:00,NO,MONITOR ONLY,726
+92,"Anna Basavanna Road,  RV Layout",Sheshadripuram,1.22,726.0,High,3,08:00 - 13:00,NO,MONITOR ONLY,726
+93,"Bellary Road,  HGH Layout",R.T. Nagar,1.18,702.0,Moderate,1,08:00 - 13:00,NO,MONITOR ONLY,702
+94,"Outer Ring Road,  Iblur Junction",Bellandur,1.17,696.0,Moderate,1,03:00 - 08:00,NO,MONITOR ONLY,696
+95,"Srinivagilu Main Road,  ST Bed Layout Extension",Adugodi,1.15,684.0,Moderate,1,01:00 - 06:00,NO,MONITOR ONLY,684
+96,"1st Main Road,  Arepanahalli",Wilson Garden,1.12,666.0,High,3,02:00 - 07:00,NO,MONITOR ONLY,666
+97,"Hosa Road,  Channakeshava Nagar",Electronic City,1.11,660.0,Moderate,1,10:00 - 15:00,NO,MONITOR ONLY,660
+98,"Bellary Road,  Vinayaka Nagar",Kodigehalli,1.11,660.0,Moderate,1,02:00 - 07:00,NO,MONITOR ONLY,660
+99,"Mallathahalli Road,  Sri Gurukrupa Layout",Jnanabharathi,1.11,660.0,Moderate,1,10:00 - 15:00,NO,MONITOR ONLY,660
+100,"Amrutha College Road,  Azalea",Bellandur,1.09,649.0,Moderate,1,09:00 - 14:00,NO,MONITOR ONLY,649
+101,"North Park Road,  Sri Katan Layout",High ground,1.08,643.0,High,3,05:00 - 10:00,NO,MONITOR ONLY,643
+102,"Albert Victor Road,  Sirsi Circle",Chamarajpet,1.08,643.0,High,3,01:00 - 06:00,NO,MONITOR ONLY,643
+103,"Seshadri Road,  Ayurvedic Hospital Junction",Sheshadripuram,1.03,613.0,High,3,00:00 - 03:00,NO,MONITOR ONLY,613
+104,"9th Main Road,  Block 2",Wilson Garden,1.01,601.0,High,2,01:00 - 06:00,NO,MONITOR ONLY,601
+105,"RT Nagar Main Road,  Judicial Officers HBCS",R.T. Nagar,1.01,601.0,Moderate,1,02:00 - 07:00,NO,MONITOR ONLY,601
+106,"9th Cross Road,  Mayura Circle",J.P. Nagar,1.01,601.0,High,3,09:00 - 14:00,NO,MONITOR ONLY,601
+107,"1st Cross Road,  Subhams Antique City",K.R. Pura,0.98,583.0,Moderate,1,09:00 - 14:00,NO,MONITOR ONLY,583
+108,"ITPL Main Road,  Brigade Tech Gardens",Whitefield,0.96,571.0,Moderate,1,08:00 - 13:00,NO,MONITOR ONLY,571
+109,"Gnana Bharathi Road,  Manasa Layout",Byatarayanapura,0.96,571.0,Moderate,1,10:00 - 15:00,NO,MONITOR ONLY,571
+110,"Dr Rajkumar Puniya Bhoomi Road,  BDA Layout",Byatarayanapura,0.93,553.0,High,2,00:00 - 03:00,NO,MONITOR ONLY,553
+111,"Mysore Road,  Deepanjali Nagar",Byatarayanapura,0.93,553.0,High,2,09:00 - 14:00,NO,MONITOR ONLY,553
+112,"G Narayana Kumar Road,  Jai Maniurao Circle",Magadi Road,0.92,547.0,High,3,09:00 - 14:00,NO,MONITOR ONLY,547
+113,"Dairy Circle Flyover Underpass,  Dairy Circle",Mico Layout,0.9,536.0,Critical,3,05:00 - 10:00,NO,MONITOR ONLY,536
+114,"Old Mysore Road,  Block 4N",Magadi Road,0.9,536.0,Moderate,2,09:00 - 14:00,NO,MONITOR ONLY,536
+115,"7th Cross Road,  MICO Layout",Mico Layout,0.9,536.0,Moderate,1,03:00 - 08:00,NO,MONITOR ONLY,536
+116,"Dr Rajkumar Puniya Bhoomi Road,  FTI Junction",Yeshwanthpura,0.89,530.0,Moderate,1,08:00 - 13:00,NO,MONITOR ONLY,530
+117,"80 Feet Ring Road,  Block 4",Rajajinagar,0.88,524.0,High,3,08:00 - 13:00,NO,MONITOR ONLY,524
+118,"5th Main Road,  Dhondusa Layout",Basavanagudi,0.87,518.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,518
+119,"East End A Main Road,  Dr BR Ambedkar Circle",Jayanagara,0.86,512.0,Critical,3,00:00 - 05:00,NO,MONITOR ONLY,512
+120,"Old Kanakapura Road,  Krest Park Apartment",Basavanagudi,0.86,512.0,High,3,04:00 - 09:00,NO,MONITOR ONLY,512
+121,"Raja Ram Mohan Roy Road,  Sampangiram Nagar",Halasuru Gate,0.86,512.0,High,3,21:00 - 23:00,NO,MONITOR ONLY,512
+122,"9th B Cross Road,  SBI Colony",J.P. Nagar,0.86,512.0,High,3,01:00 - 06:00,NO,MONITOR ONLY,512
+123,"1st Cross Road,  Sarakki Industrial Layout",Mico Layout,0.83,494.0,High,3,04:00 - 09:00,NO,MONITOR ONLY,494
+124,"4th Cross Road,  Brigade Opus",Kodigehalli,0.83,494.0,Routine,1,11:00 - 16:00,NO,MONITOR ONLY,494
+125,"Bellary Road,  Esteem Mall",Kodigehalli,0.83,494.0,Moderate,1,00:00 - 05:00,NO,MONITOR ONLY,494
+126,"Hosur Road,  Ozone Manay Tech Park",HSR Layout,0.83,494.0,Moderate,1,00:00 - 05:00,NO,MONITOR ONLY,494
+127,"Chinmaya Mission Hospital Road,  KFC Circle",Jeevanbheemanagar,0.83,494.0,Moderate,1,07:00 - 12:00,NO,MONITOR ONLY,494
+128,"Dr Rajkumar Puniya Bhoomi Road,  Swatantra Yodhara Nagar",Rajajinagar,0.82,488.0,High,2,09:00 - 14:00,NO,MONITOR ONLY,488
+129,"Hosur Road,  Market Square Value Mall",Madiwala,0.81,482.0,High,3,11:00 - 16:00,NO,MONITOR ONLY,482
+130,"CV Raman Road,  Samvidhana Circle",Yeshwanthpura,0.8,476.0,Moderate,1,02:00 - 07:00,NO,MONITOR ONLY,476
+131,"Thavarekere Main Road,  Brindavan Nagar",Mico Layout,0.78,464.0,Critical,2,09:00 - 14:00,NO,MONITOR ONLY,464
+132,"Marathahalli Bridge Service Road,  Purva Riviera",HAL Old Airport,0.77,458.0,Moderate,1,00:00 - 05:00,NO,MONITOR ONLY,458
+133,"Sarjapura Main Road,  Kaikondrahalli",Bellandur,0.77,458.0,Routine,1,07:00 - 12:00,NO,MONITOR ONLY,458
+134,"Bellahali Main Road,  Niranthara Layout",Yelahanka,0.76,452.0,Moderate,1,05:00 - 10:00,NO,MONITOR ONLY,452
+135,"46th Cross Road,  Sangam Circle",Jayanagara,0.76,452.0,High,3,03:00 - 08:00,NO,MONITOR ONLY,452
+136,"80 Feet Road,  MET Layout",Kodigehalli,0.74,440.0,Routine,1,04:00 - 09:00,NO,MONITOR ONLY,440
+137,"Jasma Devi Bhavan Road,  Rajiv Gandhi Colony",High ground,0.71,422.0,Moderate,1,03:00 - 08:00,NO,MONITOR ONLY,422
+138,"Sri Sri Sri Tiruchi Mahaswamiji Road,  Gopalan Arcade",Byatarayanapura,0.7,416.0,Moderate,1,09:00 - 14:00,NO,MONITOR ONLY,416
+139,"Hosur Road,  Salarpuria Sattva Alexandria Tech Park",Electronic City,0.7,416.0,Moderate,1,07:00 - 12:00,NO,MONITOR ONLY,416
+140,"Dr Rajkumar Puniya Bhoomi Road,  FTI Junction",Rajajinagar,0.7,416.0,Moderate,1,03:00 - 08:00,NO,MONITOR ONLY,416
+141,"Sarjapura Main Road,  Divyasree Elan Homes",Bellandur,0.68,405.0,Moderate,1,08:00 - 13:00,NO,MONITOR ONLY,405
+142,"80 Feet Road,  Havanur Circle",Kamakshipalya,0.68,405.0,High,3,08:00 - 13:00,NO,MONITOR ONLY,405
+143,"4th Main Road,  Sri Basaveshwara HBCS",Byatarayanapura,0.66,393.0,High,2,10:00 - 15:00,NO,MONITOR ONLY,393
+144,"80 Feet Road,  SBI Colony",Adugodi,0.65,387.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,387
+145,"D Devaraj Urs Road,  Karnataka Bhavan Junction",Cubbon Park,0.65,387.0,Moderate,2,05:00 - 10:00,NO,MONITOR ONLY,387
+146,"Bagaluru Main Road,  Niranthara Layout",Chikkajala,0.64,381.0,High,2,11:00 - 16:00,NO,MONITOR ONLY,381
+147,"H Siddiah Road,  Narayanpura",Wilson Garden,0.63,375.0,High,3,06:00 - 11:00,NO,MONITOR ONLY,375
+148,"Mysore Road,  Dr Ambedkar Nagar",Byatarayanapura,0.6,357.0,Moderate,1,09:00 - 14:00,NO,MONITOR ONLY,357
+149,"Dr Vishwesha Teertha Swamy Gala Road,  Kathriguppe Circle",Banashankari,0.59,351.0,High,3,09:00 - 14:00,NO,MONITOR ONLY,351
+150,"Mumbai Bengaluru Highway,  Nagasandra",Chikkabanavara,0.59,351.0,High,2,09:00 - 14:00,NO,MONITOR ONLY,351
+151,"Old Mysore Road,  Block 4N",Sheshadripuram,0.59,351.0,Moderate,2,09:00 - 14:00,NO,MONITOR ONLY,351
+152,"Unnamed Road,  Chikkanahalli North Taluka",Chikkajala,0.59,351.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,351
+153,"7th Cross Road,  Prakash Nagar",Rajajinagar,0.59,351.0,High,3,01:00 - 06:00,NO,MONITOR ONLY,351
+154,"Da Ra Bendre Road,  Kirloskar Foundry",Rajajinagar,0.58,345.0,Moderate,1,01:00 - 06:00,NO,MONITOR ONLY,345
+155,"Sarjapura Main Road,  Doddakannelli Circle",Bellandur,0.57,339.0,Routine,1,05:00 - 10:00,NO,MONITOR ONLY,339
+156,"Brigade Road,  Cauvery Junction",Cubbon Park,0.57,339.0,Moderate,1,10:00 - 15:00,NO,MONITOR ONLY,339
+157,"MS Ramaiah Road,  Mattikere Layout",Yeshwanthpura,0.57,339.0,High,2,01:00 - 06:00,NO,MONITOR ONLY,339
+158,"1st Main Road,  Lumos",Rajajinagar,0.57,339.0,Moderate,1,01:00 - 06:00,NO,MONITOR ONLY,339
+159,"Subramanyapura Main Road,  Komarla Brigade Residency",K.S. Layout,0.57,339.0,High,2,09:00 - 14:00,NO,MONITOR ONLY,339
+160,"Millers Road,  BKM Gowda Circle",High ground,0.56,333.0,Moderate,2,07:00 - 12:00,NO,MONITOR ONLY,333
+161,"Shri Ramalingeshwara Cave Temple Road,  Royal Meenakshi Mall",Hulimavu,0.55,327.0,Moderate,1,04:00 - 09:00,NO,MONITOR ONLY,327
+162,"Memorial Road,  Sulthan Nagar",Pulikeshinagar(F.Town),0.54,321.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,321
+163,"Konanakunte Main Road,  Banashankari Bus Stand Junction",Banashankari,0.54,321.0,High,3,09:00 - 14:00,NO,MONITOR ONLY,321
+164,"4th Main Road,  Chamrajpet 5th Main Junction",Chamarajpet,0.52,309.0,Critical,3,08:00 - 13:00,NO,MONITOR ONLY,309
+165,"Magadi Main Road,  Hanumantharayan Palya",Kamakshipalya,0.51,303.0,Moderate,1,08:00 - 13:00,NO,MONITOR ONLY,303
+166,"Banaswadi Main Road,  Prestige Woodland Park",Pulikeshinagar(F.Town),0.5,298.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,298
+167,"8th Main Road,  Sri Vasavi Garden",Rajajinagar,0.49,292.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,292
+168,"3rd Main Road,  Bashyam Circle",Sadashivanagar,0.48,286.0,Moderate,1,09:00 - 14:00,NO,MONITOR ONLY,286
+169,"Bellary Road,  Bagalur Cross Junction",Yelahanka,0.48,286.0,Moderate,1,01:00 - 06:00,NO,MONITOR ONLY,286
+170,"Jayamahal Main Road,  Munireddypalya",R.T. Nagar,0.47,280.0,Routine,1,00:00 - 04:00,NO,MONITOR ONLY,280
+171,"Old Madras Road,  Tamarikannan Junction",Halasur,0.47,280.0,High,2,06:00 - 11:00,NO,MONITOR ONLY,280
+172,"4th Main Road,  Nagappa Block",Sheshadripuram,0.45,268.0,Routine,1,07:00 - 12:00,NO,MONITOR ONLY,268
+173,"East End A Main Road,  SRK Garden",Jayanagara,0.45,268.0,Critical,3,01:00 - 06:00,NO,MONITOR ONLY,268
+174,"Hebbal Flyover,  Hebbal",Kodigehalli,0.44,262.0,Routine,1,05:00 - 10:00,NO,MONITOR ONLY,262
+175,"Anepalya Main Road,  Muthanna Garden",Ashok Nagar,0.43,256.0,Moderate,2,08:00 - 13:00,NO,MONITOR ONLY,256
+176,"Alur Venkata Rao Road,  TP Kailasam Circle",V.V.Puram (C.Pet),0.43,256.0,Moderate,2,07:00 - 12:00,NO,MONITOR ONLY,256
+177,"Hosur Road,  Janatha Colony",Electronic City,0.43,256.0,High,2,00:00 - 05:00,NO,MONITOR ONLY,256
+178,"Muthsandra Main Road,  KSRTC Travel House Junction",Whitefield,0.43,256.0,High,2,09:00 - 14:00,NO,MONITOR ONLY,256
+179,"Sarjapura Main Road,  Kodathi Gate",Whitefield,0.43,256.0,Moderate,1,09:00 - 14:00,NO,MONITOR ONLY,256
+180,"Begur Main Road,  Vivekananda Circle",Madiwala,0.42,250.0,High,2,10:00 - 15:00,NO,MONITOR ONLY,250
+181,"Mumbai Bengaluru Highway,  Hesaragatta Cross Junction",Peenya,0.41,244.0,Routine,1,04:00 - 09:00,NO,MONITOR ONLY,244
+182,"Siddhapura Road,  B Venkata Reddy Nagar",Wilson Garden,0.41,244.0,Moderate,2,00:00 - 05:00,NO,MONITOR ONLY,244
+183,"Outer Ring Road,  Sterling Ascentia",HAL Old Airport,0.41,244.0,Routine,1,05:00 - 10:00,NO,MONITOR ONLY,244
+184,"Rajgopal Nagar Main Road,  M Ramaiah Layout",Peenya,0.41,244.0,Routine,1,00:00 - 05:00,NO,MONITOR ONLY,244
+185,"Ali Asker Road,  Embassy Apartment",Cubbon Park,0.41,244.0,Moderate,2,05:00 - 10:00,NO,MONITOR ONLY,244
+186,"Soniya Gandhi Road,  Gangamma Circle",Jalahalli,0.4,238.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,238
+187,"D Souza Marg,  Purva Premiere",Ashok Nagar,0.4,238.0,Moderate,2,06:00 - 11:00,NO,MONITOR ONLY,238
+188,"Hosur Road,  Zed Enclave",Electronic City,0.39,232.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,232
+189,"Hosur Road,  Ramaiah Reddy Layout",Electronic City,0.39,232.0,Routine,1,00:00 - 05:00,NO,MONITOR ONLY,232
+190,"Hosur Road,  HAL Layout",Hulimavu,0.38,226.0,Routine,1,00:00 - 05:00,NO,MONITOR ONLY,226
+191,"8th Main Road,  NIMHANS",Wilson Garden,0.38,226.0,Routine,1,06:00 - 11:00,NO,MONITOR ONLY,226
+192,"Kodigehalli Main Road,  Kodigehalli Circle",Kodigehalli,0.38,226.0,Routine,1,04:00 - 09:00,NO,MONITOR ONLY,226
+193,"Mumbai Bengaluru Highway,  Bagalagunte",Chikkabanavara,0.38,226.0,Routine,1,00:00 - 05:00,NO,MONITOR ONLY,226
+194,"Jama Masjid Main Road,  Ballapurpete",Halasuru Gate,0.38,226.0,High,3,06:00 - 11:00,NO,MONITOR ONLY,226
+195,"27th Cross Road,  Ramachandra Reddy Layout",HSR Layout,0.37,220.0,Moderate,1,08:00 - 13:00,NO,MONITOR ONLY,220
+196,"Outer Ring Road,  Karthik Nagar",HAL Old Airport,0.37,220.0,Moderate,1,07:00 - 12:00,NO,MONITOR ONLY,220
+197,"Dr BR Ambedkar Road,  HAL Circle",HAL Old Airport,0.37,220.0,Moderate,1,01:00 - 06:00,NO,MONITOR ONLY,220
+198,"5th Cross Road,  Kalasipalyam New Extension",City Market,0.36,214.0,High,3,00:00 - 05:00,NO,MONITOR ONLY,214
+199,"Dr Rajkumar Puniya Bhoomi Road,  Narasimhaiah Garden",J.P. Nagar,0.36,214.0,Moderate,2,00:00 - 05:00,NO,MONITOR ONLY,214
+200,"46th Cross Road,  Block 4",Rajajinagar,0.36,214.0,Moderate,2,00:00 - 05:00,NO,MONITOR ONLY,214
+201,"Pampa Mahakavi Road,  K Mariyappa Circle",V.V.Puram (C.Pet),0.36,214.0,Moderate,2,06:00 - 11:00,NO,MONITOR ONLY,214
+202,"9th Cross Road,  SNN Raj Spiritua",Jayanagara,0.36,214.0,High,3,00:00 - 05:00,NO,MONITOR ONLY,214
+203,"9th Main Road,  Block 5",Jayanagara,0.36,214.0,Moderate,2,01:00 - 06:00,NO,MONITOR ONLY,214
+204,"Compensation Road,  Sivanchetti Gardens",Halasur,0.35,208.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,208
+205,"Whitefield Road,  Indian Oil Campus",Mahadevapura,0.35,208.0,Moderate,1,01:00 - 06:00,NO,MONITOR ONLY,208
+206,"Old Airport Road,  Thimma Reddy Layout",Jeevanbheemanagar,0.35,208.0,Moderate,1,02:00 - 07:00,NO,MONITOR ONLY,208
+207,"Sadduguntepalya Road,  Bharthi Layout",Mico Layout,0.35,208.0,Moderate,1,00:00 - 05:00,NO,MONITOR ONLY,208
+208,"Professor K Venkatachalam Circle,  Venkatachalam Circle",Pulikeshinagar(F.Town),0.35,208.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,208
+209,"Kasturba Road,  Siddalingaiah Circle",Halasuru Gate,0.34,202.0,Moderate,2,04:00 - 09:00,NO,MONITOR ONLY,202
+210,"Outer Ring Road,  Salarpuria Softzone Tech Park",Bellandur,0.34,202.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,202
+211,"Hosapalya Main Road,  Patel Channappa Circle",HSR Layout,0.33,196.0,Moderate,1,03:00 - 08:00,NO,MONITOR ONLY,196
+212,"Allalasandra Main Road,  Taralabalu Enclave",Yelahanka,0.33,196.0,Moderate,1,03:00 - 08:00,NO,MONITOR ONLY,196
+213,"ITPL Main Road,  Sumadhura Vasantham",Mahadevapura,0.32,190.0,Moderate,1,09:00 - 14:00,NO,MONITOR ONLY,190
+214,"Palace Road,  Gandhi Nagar",Halasuru Gate,0.32,190.0,Moderate,2,02:00 - 07:00,NO,MONITOR ONLY,190
+215,"Mumbai Bengaluru Highway,  Aparna Elina",Yeshwanthpura,0.32,190.0,Moderate,1,00:00 - 04:00,NO,MONITOR ONLY,190
+216,"Bellary Road,  HGH Layout",Kodigehalli,0.31,184.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,184
+217,"Bhashyam Road,  Akkimakalamna Gudi",Chamarajpet,0.31,184.0,High,3,07:00 - 12:00,NO,MONITOR ONLY,184
+218,"80 Feet Road,  Havanur Circle",Magadi Road,0.31,184.0,High,3,08:00 - 13:00,NO,MONITOR ONLY,184
+219,"SM Road,  Jalahalli Cross Junction",Chikkabanavara,0.3,178.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,178
+220,"Subramanyapura Main Road,  VVR Supreme Residency",K.S. Layout,0.3,178.0,High,2,09:00 - 14:00,NO,MONITOR ONLY,178
+221,"Bellary Road,  Vista Pixel",Hebbala,0.3,178.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,178
+222,"Konanakunte Main Road,  Gopalan Jewels",Thalagattapura,0.3,178.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,178
+223,"Whitefield Main Road,  Sri Sathya Sai Gokulam",Mahadevapura,0.29,173.0,Routine,1,06:00 - 11:00,NO,MONITOR ONLY,173
+224,"Sajjan Rao Circle,  Sajjan Rao Circle",V.V.Puram (C.Pet),0.29,173.0,Moderate,2,11:00 - 16:00,NO,MONITOR ONLY,173
+225,"19th Main Road,  Sector 2",HSR Layout,0.29,173.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,173
+226,"JJR Main Road,  Tippu Chowk",Magadi Road,0.29,173.0,High,3,03:00 - 08:00,NO,MONITOR ONLY,173
+227,"Rajatha Bhavana Road,  Dr K Shivaramakarantha Circle",Jalahalli,0.28,167.0,Moderate,1,08:00 - 13:00,NO,MONITOR ONLY,167
+228,"Subramanyapura Main Road,  Vallabha Nagar",K.S. Layout,0.28,167.0,Moderate,1,10:00 - 15:00,NO,MONITOR ONLY,167
+229,"MBT Road,  Kodandaram",K.R. Pura,0.28,167.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,167
+230,"Old Madras Road,  Kolimi Heights",Halasur,0.28,167.0,High,2,06:00 - 11:00,NO,MONITOR ONLY,167
+231,"Hosur Road,  Krimson Square",Madiwala,0.27,161.0,Routine,1,06:00 - 11:00,NO,MONITOR ONLY,161
+232,"Magadi Road,  Sobha Indraprastha",Magadi Road,0.27,161.0,High,3,09:00 - 14:00,NO,MONITOR ONLY,161
+233,"Hosur Road,  Narasimha Reddy Layout",HSR Layout,0.27,161.0,Routine,1,12:00 - 17:00,NO,MONITOR ONLY,161
+234,"8th Main Road,  Veerannana Guda",Banashankari,0.27,161.0,Routine,1,00:00 - 05:00,NO,MONITOR ONLY,161
+235,"HAL Airport Road,  Miraya Rose",Whitefield,0.27,161.0,High,2,07:00 - 12:00,NO,MONITOR ONLY,161
+236,"24th Main Road,  Shamanna Garden",J.P. Nagar,0.27,161.0,High,3,07:00 - 12:00,NO,MONITOR ONLY,161
+237,"Chikkabellanduru Road,  Ram Circle",Bellandur,0.27,161.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,161
+238,"Hosahalli Main Road,  Hunasamaranahalli",Chikkajala,0.27,161.0,Routine,1,00:00 - 04:00,NO,MONITOR ONLY,161
+239,"Field Marshal KM Cariappa Road,  Prestige Towers",Ashok Nagar,0.27,161.0,High,3,03:00 - 08:00,NO,MONITOR ONLY,161
+240,"Kasturba Road,  Hudson Circle",Cubbon Park,0.27,161.0,Moderate,2,02:00 - 07:00,NO,MONITOR ONLY,161
+241,"Doddakannelli Road,  Adithi Elite",HAL Old Airport,0.27,161.0,High,2,02:00 - 07:00,NO,MONITOR ONLY,161
+242,"1st Cross Road,  Jeevan Bima Nagar",Jeevanbheemanagar,0.27,161.0,High,2,07:00 - 12:00,NO,MONITOR ONLY,161
+243,"Kengeri Main Road,  Papareddypalya Circle",Jnanabharathi,0.26,155.0,Moderate,1,08:00 - 13:00,NO,MONITOR ONLY,155
+244,"Whitefield Road,  International Technology Park Bangalore",Whitefield,0.26,155.0,High,2,02:00 - 07:00,NO,MONITOR ONLY,155
+245,"KIADB Road,  Krishna Gowda Layout",Peenya,0.26,155.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,155
+246,"HAL Airport Road,  DSR Vertex Apex",Whitefield,0.26,155.0,Moderate,1,04:00 - 09:00,NO,MONITOR ONLY,155
+247,"Hesaraghatta Main Road,  Hesaragatta Cross Junction",Chikkabanavara,0.26,155.0,Routine,1,05:00 - 10:00,NO,MONITOR ONLY,155
+248,"Varthur Main Road,  Dommansandra Circle",No Police Station,0.26,155.0,Moderate,1,02:00 - 07:00,NO,MONITOR ONLY,155
+249,"60 Feet Road,  Veerabhadra Nagara Circle",Banashankari,0.25,149.0,Routine,1,11:00 - 16:00,NO,MONITOR ONLY,149
+250,"Dr TCM Royan Road,  Siddhartha Nagar",Chamarajpet,0.25,149.0,Moderate,2,00:00 - 05:00,NO,MONITOR ONLY,149
+251,"Old Madras Road,  Tamarikannan Junction",Jeevanbheemanagar,0.25,149.0,High,2,07:00 - 12:00,NO,MONITOR ONLY,149
+252,"Madiwala Market Street,  FSL Quarters",Madiwala,0.25,149.0,Moderate,2,00:00 - 03:00,NO,MONITOR ONLY,149
+253,"Yelahanka New Town Main Road,  1st Stage",Yelahanka,0.25,149.0,Routine,1,03:00 - 08:00,NO,MONITOR ONLY,149
+254,"Sri Sri Sri Tiruchi Mahaswamiji Road,  Ideal Home Township",Kengeri,0.25,149.0,Routine,1,05:00 - 10:00,NO,MONITOR ONLY,149
+255,"Hosur Road,  Nanjuda Reddy Layout",Electronic City,0.25,149.0,High,2,00:00 - 05:00,NO,MONITOR ONLY,149
+256,"RV Road,  Cauvery Circle",Basavanagudi,0.25,149.0,Moderate,2,06:00 - 11:00,NO,MONITOR ONLY,149
+257,"9th Cross Road,  IG Circle",J.P. Nagar,0.25,149.0,High,3,00:00 - 03:00,NO,MONITOR ONLY,149
+258,"Hesaraghatta Main Road,  Defence Colony",Chikkabanavara,0.24,143.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,143
+259,"2nd Cross Road,  Block 2",Kodigehalli,0.24,143.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,143
+260,"Dr Rajkumar Puniya Bhoomi Road,  Sumnahalli Junction",Kamakshipalya,0.24,143.0,Routine,1,07:00 - 12:00,NO,MONITOR ONLY,143
+261,"MBT Road,  Kotturu",K.R. Pura,0.24,143.0,Routine,1,00:00 - 04:00,NO,MONITOR ONLY,143
+262,"27th Main Road,  HSR Layout 27th Main Junction",HSR Layout,0.24,143.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,143
+263,"2nd Main Road,  Income Tax and Central Excise Staff Quarters",R.T. Nagar,0.23,137.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,137
+264,"Cubbon Road,  Coffee Board Junction",Cubbon Park,0.23,137.0,Moderate,2,02:00 - 07:00,NO,MONITOR ONLY,137
+265,"16th Main Road,  18th Main Road Junction",Mico Layout,0.23,137.0,High,3,11:00 - 16:00,NO,MONITOR ONLY,137
+266,"Konanakunte Main Road,  Prestige Brooklyn Heights",K.S. Layout,0.23,137.0,Moderate,2,00:00 - 05:00,NO,MONITOR ONLY,137
+267,"St John Road,  Shree Circle",Pulikeshinagar(F.Town),0.23,137.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,137
+268,"6th Cross Road,  Kumberpet",Halasuru Gate,0.23,137.0,High,3,08:00 - 13:00,NO,MONITOR ONLY,137
+269,"Abbigere Main Road,  Patel Shamanna Layout",Jalahalli,0.23,137.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,137
+270,"20th Main Road,  KR Garden",Adugodi,0.23,137.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,137
+271,"CMR Road,  Jahnavi Layout",Banaswadi,0.23,137.0,Routine,1,11:00 - 16:00,NO,MONITOR ONLY,137
+272,"Rose Garden Road,  Kalyani Vista Phase 2",J.P. Nagar,0.23,137.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,137
+273,"60 Feet Road,  Prasanthnagar Circle",Vijayanagara,0.22,131.0,High,3,10:00 - 15:00,NO,MONITOR ONLY,131
+274,"Bannerghatta Main Road,  Indian Institute of Management",J.P. Nagar,0.22,131.0,Routine,1,04:00 - 09:00,NO,MONITOR ONLY,131
+275,"10th Main Road,  Achaiah Chetty Layout",Sadashivanagar,0.22,131.0,High,3,09:00 - 14:00,NO,MONITOR ONLY,131
+276,"Sri Vinayaka Temple Main Road,  Sait Palya",Banaswadi,0.22,131.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,131
+277,"Mumbai Bengaluru Highway,  Bynapalya",No Police Station,0.22,131.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,131
+278,"MBT Road,  Brigade Golden Triangle",K.R. Pura,0.22,131.0,Moderate,1,08:00 - 13:00,NO,MONITOR ONLY,131
+279,"Dr Rajkumar Puniya Bhoomi Road,  Jaraganahalli Circle",J.P. Nagar,0.22,131.0,Moderate,2,09:00 - 14:00,NO,MONITOR ONLY,131
+280,"Thanisandra Main Road,  Ex Serviceman Layout",Hennuru,0.22,131.0,Moderate,1,05:00 - 10:00,NO,MONITOR ONLY,131
+281,"Commissariat Road,  Garuda Mall",Ashok Nagar,0.22,131.0,Routine,1,10:00 - 15:00,NO,MONITOR ONLY,131
+282,"Rhenius Street,  Nanjappa Circle",Ashok Nagar,0.22,131.0,Moderate,2,06:00 - 11:00,NO,MONITOR ONLY,131
+283,"Lalbagh Main Road,  SGN Layout",City Market,0.22,131.0,Moderate,2,01:00 - 06:00,NO,MONITOR ONLY,131
+284,"MBT Road,  Avalahalli South Taluka",K.R. Pura,0.21,125.0,Moderate,1,09:00 - 14:00,NO,MONITOR ONLY,125
+285,"Dr APJ Abdul Kalam Marg,  Sir CV Raman Circle",Banaswadi,0.21,125.0,Routine,1,03:00 - 08:00,NO,MONITOR ONLY,125
+286,"Railway Line Road,  NGEF Layout",Banaswadi,0.21,125.0,High,2,05:00 - 10:00,NO,MONITOR ONLY,125
+287,"Palace Road,  Prestige Trade Tower",High ground,0.2,119.0,Moderate,2,00:00 - 04:00,NO,MONITOR ONLY,119
+288,"ORC Road,  Karnataka Police Quarters",Ashok Nagar,0.2,119.0,High,2,00:00 - 05:00,NO,MONITOR ONLY,119
+289,"MBT Road,  Zero Tolerance Junction",K.R. Pura,0.2,119.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,119
+290,"Sarjapura Main Road,  Saket Callipolis",Bellandur,0.2,119.0,Routine,1,05:00 - 10:00,NO,MONITOR ONLY,119
+291,"RV Road,  Lalbhagh West Gate Circle",Basavanagudi,0.2,119.0,Moderate,2,08:00 - 13:00,NO,MONITOR ONLY,119
+292,"7th Cross Road,  Park Square Apartment",HSR Layout,0.2,119.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,119
+293,"Kempapura Main Road,  Esteem Mall",Hebbala,0.2,119.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,119
+294,"Dr Rajgopal Road,  Infantry Towers",Kodigehalli,0.19,113.0,Routine,1,07:00 - 12:00,NO,MONITOR ONLY,113
+295,"3rd A Cross Road,  East Colony",Yelahanka,0.19,113.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,113
+296,"Nallurahalli Road,  SV Mayfair",Whitefield,0.19,113.0,High,2,08:00 - 13:00,NO,MONITOR ONLY,113
+297,"Amrutha College Road,  Rayasandra Circle",Electronic City,0.19,113.0,Moderate,1,09:00 - 14:00,NO,MONITOR ONLY,113
+298,"Whitefield Road,  Sadaramangala Industrial Area",Mahadevapura,0.19,113.0,High,2,10:00 - 15:00,NO,MONITOR ONLY,113
+299,"Sultanji Gunta Road,  Sulthangunta",Pulikeshinagar(F.Town),0.19,113.0,Moderate,1,01:00 - 06:00,NO,MONITOR ONLY,113
+300,"Magadi Main Road,  BM Shankarappa Industrial Estate",Kamakshipalya,0.18,107.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,107
+301,"Kengeri Main Road,  Bayamma Layout",Jnanabharathi,0.18,107.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,107
+302,"Sri ML Subbaraju Road,  Mahatma Gandhi Circle",Cubbon Park,0.18,107.0,Routine,1,04:00 - 09:00,NO,MONITOR ONLY,107
+303,"National High School Road,  Sri Vasavi Circle",V.V.Puram (C.Pet),0.18,107.0,Moderate,2,02:00 - 07:00,NO,MONITOR ONLY,107
+304,"Hosur Road,  Columbia Aaltius",Electronic City,0.18,107.0,High,2,00:00 - 05:00,NO,MONITOR ONLY,107
+305,"Balasubramanya Street,  Telecom Layout",Magadi Road,0.18,107.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,107
+306,"21st Main Road,  Marenahalli Palya",J.P. Nagar,0.18,107.0,Moderate,2,05:00 - 10:00,NO,MONITOR ONLY,107
+307,"14th Main Road,  Sector 5",HSR Layout,0.18,107.0,Routine,1,00:00 - 05:00,NO,MONITOR ONLY,107
+308,"Kondajji Basappa Road,  Parvatipuram",V.V.Puram (C.Pet),0.18,107.0,Moderate,2,01:00 - 06:00,NO,MONITOR ONLY,107
+309,"Bellary Road,  Godrej Platinum",Kodigehalli,0.17,101.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,101
+310,"Whitefield Main Road,  HBK Layout",Whitefield,0.16,95.0,High,2,06:00 - 11:00,NO,MONITOR ONLY,95
+311,"Hesarghatta Road,  Mohammad Sab Palya Circle",Yelahanka,0.16,95.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,95
+312,"5th Main Road,  Shri Satya Sai Circle",Jayanagara,0.16,95.0,Moderate,2,03:00 - 08:00,NO,MONITOR ONLY,95
+313,"Bannerghatta Main Road,  JD Mara Junction",J.P. Nagar,0.16,95.0,Moderate,2,07:00 - 12:00,NO,MONITOR ONLY,95
+314,"SKS Compound Road,  Kudlu Gate",Electronic City,0.16,95.0,Routine,1,00:00 - 05:00,NO,MONITOR ONLY,95
+315,"9th Cross Road,  Shakambari Nagar",J.P. Nagar,0.16,95.0,High,3,00:00 - 03:00,NO,MONITOR ONLY,95
+316,"Sankey Road,  RV Layout",High ground,0.16,95.0,Moderate,2,08:00 - 13:00,NO,MONITOR ONLY,95
+317,"Konanakunte Main Road,  Bayanapalya",Thalagattapura,0.16,95.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,95
+318,"Dr TCM Royan Road,  Akkimakalamna Gudi",Chamarajpet,0.16,95.0,High,2,00:00 - 05:00,NO,MONITOR ONLY,95
+319,"3rd Main Road,  Reddys Keerthi Residency",Mahadevapura,0.15,89.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,89
+320,"Millers Road,  Kaverappa Layout",High ground,0.15,89.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,89
+321,"27th Main Road,  Sector 1",HSR Layout,0.15,89.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,89
+322,"HMT Main Road,  HMT Circle",Jalahalli,0.15,89.0,High,2,01:00 - 06:00,NO,MONITOR ONLY,89
+323,"Bannerghatta Main Road,  Vijay Shree Layout",J.P. Nagar,0.15,89.0,Routine,1,05:00 - 10:00,NO,MONITOR ONLY,89
+324,"Sulibele Road,  Giriyamma Circle",Devanahalli Airport,0.15,89.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,89
+325,"Mumbai Bengaluru Highway,  Sobha Garrison",Peenya,0.15,89.0,Moderate,1,02:00 - 07:00,NO,MONITOR ONLY,89
+326,"Hosur Road,  Maha Ligeshwara Layout",Adugodi,0.14,83.0,Moderate,2,01:00 - 06:00,NO,MONITOR ONLY,83
+327,"4th Main Road,  Shri Ma Ramamurthy Circle",V.V.Puram (C.Pet),0.14,83.0,Moderate,2,07:00 - 12:00,NO,MONITOR ONLY,83
+328,"5th Cross Road,  Nagappa Block",Malleshwaram,0.14,83.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,83
+329,"Chikka Banavara RS Road,  Prasad Enclave",Jalahalli,0.14,83.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,83
+330,"Binny Mill Main Road,  Railway Quarters",Magadi Road,0.14,83.0,High,3,00:00 - 05:00,NO,MONITOR ONLY,83
+331,"1st Main Road,  Jayamahal Extension",R.T. Nagar,0.14,83.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,83
+332,"Whitefield Main Road,  HM Tech Park",Whitefield,0.14,83.0,Moderate,1,07:00 - 12:00,NO,MONITOR ONLY,83
+333,"J Lingaiah Road,  Kempanna Block",Sheshadripuram,0.13,77.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,77
+334,"Thigalarapalya Main Road,  Stage 2",Kamakshipalya,0.13,77.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,77
+335,"Magadi Main Road,  Byadrahalli",Kamakshipalya,0.13,77.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,77
+336,"Dr Vishnuvardhan Main Road,  Uttarahalli Circle",K.S. Layout,0.13,77.0,Routine,1,11:00 - 16:00,NO,MONITOR ONLY,77
+337,"Kengeri Main Road,  Kengeri Satellite Town",Kengeri,0.13,77.0,Routine,1,03:00 - 08:00,NO,MONITOR ONLY,77
+338,"Nexus Venture Partners,  301",Cubbon Park,0.13,77.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,77
+339,"Varthur Main Road,  Dr BR Ambedkar Circle",Whitefield,0.13,77.0,High,2,01:00 - 06:00,NO,MONITOR ONLY,77
+340,"Siddhapura Road,  Siddapura Circle",Wilson Garden,0.12,71.0,Routine,1,00:00 - 05:00,NO,MONITOR ONLY,71
+341,"Bikasipura Main Road,  LMC Industrial Layout",K.S. Layout,0.12,71.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,71
+342,"Forest Region Road,  Vymac Circle",Jalahalli,0.12,71.0,Routine,1,10:00 - 15:00,NO,MONITOR ONLY,71
+343,"Doddagubbi Road,  Chikka Aneppa Layout",Hennuru,0.12,71.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,71
+344,"Hoodi Main Road,  Thigalarapalya",Mahadevapura,0.11,65.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,65
+345,"Seppings Road,  Nehru Puram",Pulikeshinagar(F.Town),0.11,65.0,Routine,1,10:00 - 15:00,NO,MONITOR ONLY,65
+346,"12th Main Road,  Bhashyam Circle",Magadi Road,0.11,65.0,Moderate,2,07:00 - 12:00,NO,MONITOR ONLY,65
+347,"G Narayana Kumar Road,  Soundarya Kamakshi",Kamakshipalya,0.11,65.0,Routine,1,10:00 - 15:00,NO,MONITOR ONLY,65
+348,"RV Road,  Lalbhagh West Gate Circle",Wilson Garden,0.11,65.0,Moderate,2,08:00 - 13:00,NO,MONITOR ONLY,65
+349,"Kempegowda Road,  Kamraj Nagar",K.G. Halli,0.11,65.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,65
+350,"24th Main Road,  Sri SN Venkatesh Reddy Circle",J.P. Nagar,0.11,65.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,65
+351,"9th Main Road,  Shri Satya Sai Circle",Jayanagara,0.11,65.0,Moderate,2,09:00 - 14:00,NO,MONITOR ONLY,65
+352,"Konanakunte Main Road,  SS Vrudhi",Thalagattapura,0.11,65.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,65
+353,"Kengeri Magadi Road,  Police Quarters",Kengeri,0.11,65.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,65
+354,"Lingarajapuram Flyover,  Old Bagalur Layout",Pulikeshinagar(F.Town),0.11,65.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,65
+355,"Hesaraghatta Main Road,  Havanoor Extension",Chikkabanavara,0.1,60.0,Routine,1,11:00 - 16:00,NO,MONITOR ONLY,60
+356,"Jalahalli Main Road,  Sri Veera Madakari Nayaka Circle",Jalahalli,0.1,60.0,High,2,09:00 - 14:00,NO,MONITOR ONLY,60
+357,"Munninarasimha Road,  Prisha Orchids",Hennuru,0.1,60.0,Moderate,1,11:00 - 16:00,NO,MONITOR ONLY,60
+358,"Srinivagilu Main Road,  Sony World Junction",Adugodi,0.1,60.0,Routine,1,12:00 - 17:00,NO,MONITOR ONLY,60
+359,"20th Main Road,  Block 8",Adugodi,0.1,60.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,60
+360,"Castle Street,  Mother Teresa Circle",Ashok Nagar,0.09,54.0,Routine,1,07:00 - 12:00,NO,MONITOR ONLY,54
+361,"100 Feet Road,  Stage 1",Jeevanbheemanagar,0.09,54.0,High,2,10:00 - 15:00,NO,MONITOR ONLY,54
+362,"1st Cross Road,  Block 5A",Adugodi,0.09,54.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,54
+363,"T Mariyappa Road,  Kanakana Palya",Wilson Garden,0.09,54.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,54
+364,"Mims Gulmohar Road,  Gulmohar",Whitefield,0.08,48.0,Critical,2,08:00 - 13:00,NO,MONITOR ONLY,48
+365,"Kodigehalli Main Road,  Aryav Greenfields",K.R. Pura,0.08,48.0,Critical,2,02:00 - 07:00,NO,MONITOR ONLY,48
+366,"Konanakunte Main Road,  4th H Block",Thalagattapura,0.08,48.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,48
+367,"Old Madras Road,  New Binnamangla",Jeevanbheemanagar,0.08,48.0,High,2,01:00 - 06:00,NO,MONITOR ONLY,48
+368,"Andhrahalli Main Road,  Soundarya Layout",Kamakshipalya,0.08,48.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,48
+369,"1st A Main Road,  Billiards Junction",Vijayanagara,0.07,42.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,42
+370,"Haralur Road,  Madduramma Junction",Bellandur,0.07,42.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,42
+371,"Sri Nitturu Srinivasarao Road,  Madhavan Circle",Jayanagara,0.07,42.0,Moderate,2,04:00 - 09:00,NO,MONITOR ONLY,42
+372,"Westend Avenue,  Akshaya Nagar",Hulimavu,0.07,42.0,Routine,1,10:00 - 15:00,NO,MONITOR ONLY,42
+373,"Madhavaraya Mudaliar Road,  Nanjappa Block",Pulikeshinagar(F.Town),0.07,42.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,42
+374,"Kodigehalli Main Road,  Aryav Greenfields",Mahadevapura,0.07,42.0,Critical,2,01:00 - 06:00,NO,MONITOR ONLY,42
+375,"Road Number 1,  Salarpuria Infozone",Electronic City,0.07,42.0,Routine,1,10:00 - 15:00,NO,MONITOR ONLY,42
+376,"BDA 80 Feet Road,  Windchimes",Hulimavu,0.07,42.0,Routine,1,06:00 - 11:00,NO,MONITOR ONLY,42
+377,"5th Cross Road,  Mariappanapalya",Rajajinagar,0.07,42.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,42
+378,"Thimmaiah Road,  Chavundaraya Circle",High ground,0.07,42.0,Routine,1,04:00 - 09:00,NO,MONITOR ONLY,42
+379,"Thanisandra Main Road,  Tuba Layout",Hennuru,0.07,42.0,Routine,1,12:00 - 17:00,NO,MONITOR ONLY,42
+380,"Canara Bank Cross Road,  Konanakunte Junction",K.S. Layout,0.06,36.0,Routine,1,01:00 - 06:00,NO,MONITOR ONLY,36
+381,"Ashley Road,  Prestige Falcon Towers",Halasur,0.06,36.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,36
+382,"17th Cross Road,  Parangipalya",HSR Layout,0.06,36.0,Routine,1,04:00 - 09:00,NO,MONITOR ONLY,36
+383,"Amrutha College Road,  Tulasi Layout",Bellandur,0.06,36.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,36
+384,"10th Cross Road,  LIC Colony Junction",Jayanagara,0.05,30.0,Routine,1,11:00 - 16:00,NO,MONITOR ONLY,30
+385,"Industrial Park Road,  RMZ NXT",Mahadevapura,0.05,30.0,High,2,04:00 - 09:00,NO,MONITOR ONLY,30
+386,"Banaswadi Main Road,  Maruthi Sevanagar",Banaswadi,0.05,30.0,Routine,1,08:00 - 13:00,NO,MONITOR ONLY,30
+387,"Dasarahalli Main Road,  RMZ Azure",Hebbala,0.05,30.0,Routine,1,03:00 - 08:00,NO,MONITOR ONLY,30
+388,"4th Main Road,  Subramanyapura",K.S. Layout,0.04,24.0,High,2,03:00 - 08:00,NO,MONITOR ONLY,24
+389,"Thanisandra Main Road,  Aswath Nagar Circle",Hennuru,0.04,24.0,Routine,1,11:00 - 16:00,NO,MONITOR ONLY,24
+390,"80 Feet Road,  Corona Apartments",Hennuru,0.04,24.0,Routine,1,11:00 - 16:00,NO,MONITOR ONLY,24
+391,"2nd Main Road,  Kasturi Nagar",Banaswadi,0.04,24.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,24
+392,"Whitefield Main Road,  Pioneer Moonstone",Mahadevapura,0.03,18.0,Routine,1,05:00 - 10:00,NO,MONITOR ONLY,18
+393,"Global City Tech Park Road,  Mylasandra Village",Kengeri,0.03,18.0,Routine,1,09:00 - 14:00,NO,MONITOR ONLY,18
+394,"Palace Road,  MD Nanjundaswamy Circle",Sadashivanagar,0.03,18.0,Routine,1,06:00 - 11:00,NO,MONITOR ONLY,18
+395,"Amrita College Road,  Bhuvi Colony",Bellandur,0.02,12.0,Routine,1,02:00 - 07:00,NO,MONITOR ONLY,12
+396,"Amruthahalli Main Road,  Park View Layout",Hebbala,0.02,12.0,Routine,1,03:00 - 08:00,NO,MONITOR ONLY,12
